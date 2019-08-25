@@ -19,8 +19,8 @@ This course cover:
 
 <br/>
 
-## Certificate of Completition
-You can see the [Certificate of Completition](https://github.com/AlessandroCorradini/Certificates/blob/master/Edx%20-%20MIT%20Massachusetts%20Institute%20of%20Technology%20-%206.00.2x%20Introduction%20to%20Computational%20Thinking%20and%20Data%20Science%20Certificate.pdf) and other certificates in my [Certificates Repo](https://github.com/AlessandroCorradini/Certificates) that contains all my certificates obtained through my journey as a self-made Data Science and better developer.
+## Certificate of Completion
+You can see the [Certificate of Completion](https://github.com/AlessandroCorradini/Certificates/blob/master/Edx%20-%20MIT%20Massachusetts%20Institute%20of%20Technology%20-%206.00.2x%20Introduction%20to%20Computational%20Thinking%20and%20Data%20Science%20Certificate.pdf) and other certificates in my [Certificates Repo](https://github.com/AlessandroCorradini/Certificates) that contains all my certificates obtained through my journey as a self-made Data Science and better developer.
 
 <br/>
 
